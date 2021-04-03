@@ -2,7 +2,7 @@ package NumberReversing;
 
 public class Reverse {
 	public static void main(String[] args) {
-		System.out.println(getReversedNumberFor(12345));
+		System.out.println(getReversedNumberFor(156789));
 	}
 
 	public static int getReversedNumberFor(int givenNumber) {
