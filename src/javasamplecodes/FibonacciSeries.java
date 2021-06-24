@@ -3,6 +3,7 @@ package javasamplecodes;
 public class FibonacciSeries {
 
 	public static void main(String[] args) {
+		
 		int total = 10;
 
 		int number1 = 0;
@@ -17,7 +18,6 @@ public class FibonacciSeries {
 
 			number1 = number2;
 			number2 = result;
-
 		}
 	}
 
